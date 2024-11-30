@@ -3,13 +3,17 @@ Electric mobility plays a crucial role in reducing greenhouse gas emissions. As 
 The Streamlit application: https://advanced-se---project-1-2uqzpv2iwhsbqrve6qgkvx.streamlit.app/
 
 Code Documentation:
+
 Program:
 
 Data frames:
 
 1- df_geodata_plz: contain geographical information related to postal code areas (PLZ) in Berlin. It has 2 columns: 
+
     - PLZ: Represents the postal code (Postleitzahl) of various areas in Berlin
+    
     - geometry: Contains geometrical data defining the shape and boundaries of each postal code area (stored as polygon)
+    
 2-  df_lstat: Contain detailed registry of electric vehicle charging stations. 
     - Location Information:
         - Betreiber: Operator of the charging station
